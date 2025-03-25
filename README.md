@@ -1,7 +1,8 @@
 ## Hi there 👋
 My name is Derek Walton and here are some of my favorite projects I've worked on:
-My Website with a small game: [derekawalton.com](derekawalton.com)
 My data science blog: [Data Science, Technology, and More](https://derebewalton.github.io/my-blog/)
+A fun name tool using Streamlit and public name data: [Name Exploration](https://steamlitfun.streamlit.app/)
+
 
 <!--
 **DerebeWalton/DerebeWalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
